@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/ed/af/3a/edaf3a0b685bac09b1efba11f5ccffa6.jpg" width="100%" />
-</div>
-
-<br>
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/a2/3a/86/a23a86c54b19d0314b7852b027dc0640.jpg" width="100%" style="border-radius: 6px;" />
+</p>
 
 <div align="center">
   <p><em>"If you don't fight, you can't win. If you don't give up, you just keep debugging."</em></p>
