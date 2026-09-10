@@ -3,7 +3,7 @@
 </div>
 
 ### ☕ About Me
-* **Name:** Manuela (aka/nunu **ackermanunu**)
+* **Name:** manuela (aka/nunu **ackermanunu**)
 * **Where you'll find me:** Somewhere between black-cover books, existential dread, and trying to make sense of code that refuses to work.
 * **Current quest:** Surviving my Cybersecurity degree at Senac and figuring out how systems break when nobody is looking.
 * **Powered by:** Coffee with milk, relentless curiosity, and the grim realization that digital security is a joke.
