@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://i.pinimg.com/736x/ed/af/3a/edaf3a0b685bac09b1efba11f5ccffa6.jpg" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <p><em>"If you don't fight, you can't win. If you don't give up, you just keep debugging."</em></p>
 </div>
 
